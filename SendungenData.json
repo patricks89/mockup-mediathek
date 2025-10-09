@@ -1,0 +1,190 @@
+[
+  {
+    id: 'rondo-news', title: 'Rondo News',
+    description: 'Aktuelle Nachrichten aus Graubünden, Glarus und dem südlichen St. Gallen – kompakt, regional und stets auf den Punkt gebracht.',
+    image: abs('/sites/default/files/so_program/visual/little/2021-03/Rondo_News_1.jpg'),
+    overlay: '', category: 'news'
+  },
+
+  {
+    id: 'rondo-news-fokus', title: 'Rondo News Fokus',
+    description: 'Vertiefte Reportagen und Interviews zu Themen, die unsere Region bewegen – mit Hintergrund, Einschätzungen und Stimmen aus der Bevölkerung.',
+    image: abs('/sites/default/files/so_program/visual/little/2022-05/Rondo_NewsFokus_Thumbnail_neu.jpg'),
+    overlay: '', category: 'news'
+  },
+
+  {
+    id: 'rondo-sport', title: 'Rondo Sport',
+    description: 'Das regionale Sportgeschehen in wenigen Minuten: von Spitzenleistungen bis zum Breitensport – mit Analysen, Stimmen und Highlights.',
+    image: abs('/sites/default/files/so_program/visual/little/2021-03/Rondo_Sport_1.jpg'),
+    overlay: '', category: 'sport'
+  },
+
+  {
+    id: 'rondo-wetter', title: 'Rondo Wetter',
+    description: 'Prognosen und Wetterlage live aus der Region, präsentiert aus wechselnden Standorten sowie aus dem Studio in Chur.',
+    image: abs('/sites/default/files/so_program/visual/little/2021-03/Rondo_Wetter_1.jpg'),
+    overlay: '', category: 'wetter'
+  },
+
+  {
+    id: 'rondo-serie', title: 'Rondo Serie',
+    description: 'Alltagsthemen werden aus unterschiedlichen Perspektiven beleuchtet – mit Blick auf Menschen, Hintergründe und Entwicklungen.',
+    image: abs('/sites/default/files/so_program/visual/little/2023-07/Rondo_Serie1.jpg'),
+    overlay: '', category: 'magazin'
+  },
+
+  {
+    id: 'rondo-magazin', title: 'Rondo Magazin',
+    description: 'Gäste auf der Studiocouch erzählen Persönliches, wechseln zu Impulsen & Fragen – nahbar, ehrlich und mit Tiefgang.',
+    image: abs('/sites/default/files/so_program/visual/little/2021-03/Rondo_Magazin_1_2.jpg'),
+    overlay: '', category: 'magazin'
+  },
+
+  {
+    id: 'rondo-reprise', title: 'Rondo Reprise',
+    description: 'Die Highlights der Woche aus unseren Nachrichtenformaten in einer Sendung – für alle, die das Wichtigste zusammengeschnitten sehen möchten.',
+    image: abs('/sites/default/files/so_program/visual/little/2021-03/Rondo_Reprise_1.jpg'),
+    overlay: '', category: 'magazin'
+  },
+
+  {
+    id: 'rondo-sport-reprise', title: 'Rondo Sport Reprise',
+    description: 'Die besten Sportmomente der Woche neu aufbereitet – kompakt, spannend und regional verankert.',
+    image: abs('/sites/default/files/so_program/visual/little/2021-03/Rondo_SportReprise_1.jpg'),
+    overlay: '', category: 'sport'
+  },
+
+  {
+    id: 'wahlen-abstimmungen', title: 'Wahlen und Abstimmungen',
+    description: 'Aktuell, regional und national: Berichte, Analysen und Stimmen zu allen politischen Wahlen und Abstimmungen in der Region.',
+    image: abs('/sites/default/files/so_program/visual/little/2024-09/WahlenAbstimmungen1.jpg'),
+    overlay: '', category: 'news'
+  },
+
+  {
+    id: 'archivperle', title: 'Archivperle',
+    description: 'Ein Blick zurück: Ausgewählte Beiträge aus dem TV-Archiv von Südostschweiz – faszinierend, überraschend, historisch.',
+    image: abs('/sites/default/files/so_program/visual/little/2024-04/Archivperle1.jpg'),
+    overlay: '', category: 'extra'
+  },
+
+  {
+    id: 'baterlada', title: 'Baterlada',
+    description: 'Unsere rätoromanische Talkrunde: Menschen aus Politik, Kultur oder Gesellschaft kommen zu Wort – regional, direkt, authentisch.',
+    image: abs('/sites/default/files/so_program/visual/little/2017-04/Baterlada3.png'),
+    overlay: '', category: 'magazin'
+  },
+
+  {
+    id: 'broncos-magazin', title: 'Broncos Magazin',
+    description: 'Hintergründe, Porträts und Geschichten rund um den Bündner Serienmeister – mit exklusiven Einblicken in die Welt des Teams.',
+    image: abs('/sites/default/files/so_program/visual/little/2025-03/3_VisualKlein.jpg'),
+    overlay: '', category: 'sport'
+  },
+
+  {
+    id: 'caffe-todisco', title: 'Caffè Todisco',
+    description: 'Italienisches Flair & Talk aus Leidenschaft: Gäste, Musik und Gespräche mit italienischer Note in unserem Studio.',
+    image: abs('/sites/default/files/so_program/visual/little/2017-04/CaffeTodisco3.png'),
+    overlay: '', category: 'magazin'
+  },
+
+  {
+    id: 'economia', title: 'Economia - der Wirtschaftstalk',
+    description: 'Wirtschaft im Fokus: Gespräch mit Persönlichkeiten aus der Bündner Unternehmerwelt über Chancen, Herausforderungen und Visionen.',
+    image: abs('/sites/default/files/so_program/visual/little/2023-08/Economia1.jpg'),
+    overlay: '', category: 'magazin'
+  },
+
+  {
+    id: 'extra', title: 'EXTRA',
+    description: 'Sonderformat mit spektakulären Events, regionalen Highlights und besonderen Momenten unserer Region – visuell stark, inhaltlich vielfältig.',
+    image: abs('/sites/default/files/so_program/visual/little/2017-04/Extra3.png'),
+    overlay: '', category: 'extra'
+  },
+
+  {
+    id: 'em-talk', title: 'EM-Talk',
+    description: 'Diskussionen, Analysen und Einschätzungen rund um europäische Meisterschaften – mit Experten, Meinungen und regionalem Bezug.',
+    image: abs('/sites/default/files/so_program/visual/little/2024-06/EM1.jpg'),
+    overlay: '', category: 'sport'
+  },
+
+  {
+    id: 'fiutscher-live', title: 'Fiutscher live',
+    description: 'Ein Blick hinter die Kulissen: Junge Leute entdecken Berufe in der Region – praktisch, informativ und lebensnah.',
+    image: abs('/sites/default/files/so_program/visual/little/2025-09/Fiutscher_Visual%20klein.jpg'),
+    overlay: '', category: 'magazin'
+  },
+
+  {
+    id: 'hockey-talk', title: 'Hockey Talk',
+    description: 'Im Expertengespräch mit Insider*innen rund um die Bündner Eishockey-Clubs: Analysen, Rückblicke und Ausblicke.',
+    image: abs('/sites/default/files/so_program/visual/little/2025-09/HockeyTalk_Visual%20klein.jpg'),
+    overlay: '', category: 'sport'
+  },
+
+  {
+    id: 'standpunkte', title: 'Südostschweiz Standpunkte',
+    description: 'Regionalthemen mit nationaler Bühne: Moderierte Gesprächsrunden mit Bündner Gästen und Blick über den Tellerrand.',
+    image: abs('/sites/default/files/so_program/visual/little/2020-10/so_standpunkte_3.jpg'),
+    overlay: '', category: 'magazin'
+  },
+
+  {
+    id: 'diskutiert', title: 'Südostschweiz diskutiert',
+    description: 'Themendiskussion mit Expert*innen: Aktuelle Fragen und unterschiedliche Perspektiven aus Politik, Gesellschaft und Kultur.',
+    image: abs('/sites/default/files/so_program/visual/little/2020-03/suedostschweiz_diskutiert_1.jpg'),
+    overlay: '', category: 'magazin'
+  },
+
+  {
+    id: 'talk-underwegs', title: 'Talk underwegs - Sommerserie',
+    description: 'Im Sommer live aus dem Sendegebiet: Moderation & Gäste unterwegs – mitten im Geschehen und direkt im Herzen der Region.',
+    image: abs('/sites/default/files/so_program/visual/little/2025-07/TalkUnderwegs_Visual%20klein.jpg'),
+    overlay: '', category: 'magazin'
+  },
+
+  {
+    id: 'bliib-fit', title: 'Bliib fit - mach mit!',
+    description: 'Bewegung & Gesundheit für Senior*innen: Übungen und Tipps zur Stärkung – leicht verständlich, alltagstauglich und mit Herz.',
+    image: abs('/sites/default/files/so_program/visual/little/2024-10/BFMM_1.jpg'),
+    overlay: '', category: 'magazin'
+  },
+
+  {
+    id: 'blick-uf-dschwiiz', title: 'Blick uf d’Schwiiz',
+    description: 'Ein Blick auf die Schweiz - jede Woche zeigen wir ausgewählt Beitrage von anderen Regionalsendern aus der Schweiz.',
+    image: abs('/sites/default/files/so_program/visual/little/2019-03/visual_blick_uf_d_schwiiz_3.png'),
+    overlay: '', category: 'magazin'
+  },
+
+  {
+    id: 'bt-muasch-gseh', title: 'BT muasch gseh',
+    description: 'BT-Kolumnistin Debora Erica Clara Zeier besucht Menschen, Orte und Geschichten in Graubünden – mit Neugier und feinem Blick.',
+    image: abs('/sites/default/files/so_program/visual/little/2019-10/btmuaschgseh_v2.jpg'),
+    overlay: '', category: 'magazin'
+  },
+
+  {
+    id: 'globe-tv', title: 'Globe TV',
+    description: 'Fernweh & Reisen: Jede Woche neue Ziele, Geschichten und Impressionen aus der Welt – für alle, die sich inspirieren lassen wollen.',
+    image: abs('/sites/default/files/so_program/visual/little/2019-04/Globe_TV_3.png'),
+    overlay: '', category: 'magazin'
+  },
+
+  {
+    id: 'top-jass', title: 'Top Jass',
+    description: 'Die Jass-Sendung von Tele Top mit Schlagabtausch, Emotionen und Wohlfühlatmosphäre. Präsentiert von Monika Fasnacht.',
+    image: abs('/sites/default/files/so_program/visual/little/2023-01/topjass.jpg'),
+    overlay: '', category: 'magazin'
+  },
+
+  {
+    id: '50-50', title: '50/50',
+    description: 'Die gemeinsame TV-Produktion von Somedia und RTR: Gesellschaft, Kultur und Identität – mit Fokus auf Rätoromanisch und Sprachvielfalt.',
+    image: abs('/sites/default/files/so_program/visual/little/2024-09/50%EF%80%A250_1.jpg'),
+    overlay: '', category: 'magazin'
+  },
+]
